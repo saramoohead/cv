@@ -1,48 +1,56 @@
-## Your Name
+## Sara O'Connor
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I'm an aspiring junior web developer who has spent 13 years in children's book publishing, the last five leading on digital. After a career editing fiction, I love trying to piece together the stories inside code. As a junior developer, I'd like to work hard on great projects in a learning-friendly environment where I can be creative and challenged.
 
-## Skills
+## Highlight projects
 
-#### This Skill
+Makers Academy Visitors App
+Demo video: https://youtu.be/v1GVvMg1-Js
+- Swift/Objective-C app integrating a proximity beacon, Slack message webhooks and Google forms powered by a Rails API.
+https://github.com/MakersApp
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Chitter Challenge: https://github.com/saramoohead/chitter-chatter-complete
+- Twitter clone, Ruby, Sinatra, BDD with Cucumber
 
-- Experience
-- Achievements
-- Evidence
+Makermix: https://github.com/Makermix/pair_helper
+- Pairing generator app for the March 2015 cohort, with an Angular frontend and a Rails backend, built in three days.
 
-#### Another Skill
+skill-exchange.herokuapp.com
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+## Stack
+- Confident: Ruby, Rails, RSpec, Postgres, Cucumber, Capybara, APIs, TDD, BDD
+- Know: Javascript, Angular, Karma, Protractor, Jasmine, RackTest, OOP
+- Used: Swift, XCode
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+## Previous digital experience
+- Won the data visualisation category at my first hackathon: http://www.thebookseller.com/news/futurebook-hack-chooses-its-winners
+- On the team that won the Hasbro Play/Hack: http://holition.com/journal/archives/2014/10/pos#h-title
+- Entertained and inspired hundreds of children for hundreds of hours by creating: https://www.thestoryadventure.com
+- Got mentioned in the Guardian for: https://itunes.apple.com/gb/book/maggot-moon-multi-touch-edition/id557942824?mt=11
+- Rebelled against publishing website convention with: https://www.hotkeybooks.com/
 
 ## Education
+**Makers Academy** (Feb 2015 to June 2015 -- March Cohort)
 
-#### Makers Academy (start_date to end_date)
+*Master of Arts (MA), Children's and Adolescent Literature* **University of Reading, England** (2000 to 2001)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+*Bachelor of Fine Arts (BFA), Writing, Literature and Publishing* **Emerson College, Boston** (1997 - 2000)
 
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
+*High School Diploma* **International School of Kuala Lumpur, Malaysia** (1993 - 1997)
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+Spent 13 years considering and selecting ideas for investment. Helped bring over 200 book products to market, including creating several series. Two of my ideas have passed £1 million revenue.
+
+*Fiction Digital Director* **Hot Key Books** (Dec 2011 to Feb 2015)
+
+*Senior Editorial Manager* **Hodder Children's Books** (Nov 2010 to Dec 2011)
+
+*Senior Commissioning Editor* **Working Partners Ltd** (Sept 2004 - Nov 2010)
+
+*Co-founder* **Book Bound** (April 2013 - present)
+
+## Volunteering
+
+*Co-founder* **Undiscovered Voices** (Jun 2002 - Feb 2011)
+
