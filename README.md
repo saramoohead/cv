@@ -12,11 +12,11 @@ https://github.com/MakersApp
 Chitter Challenge: https://github.com/saramoohead/chitter-chatter-complete
 - Twitter clone, Ruby, Sinatra, BDD with Cucumber
 
-Skill Exchange: http://skill-exchange.herokuapp.com
-- Users post theirs skills and/or ask to learn them. The app pairs people up with shared skills and offers signing in with Google and a link to a Google Hangout. Rails, HTML5, built in 36 hours.
-
 Makermix: https://github.com/Makermix/pair_helper
 - Pairing generator app for the March 2015 cohort, with an Angular frontend and a Rails backend, built in three days.
+
+Skill Exchange: http://skill-exchange.herokuapp.com
+- Users post theirs skills and/or ask to learn them. The app pairs people up with shared skills and offers signing in with Google and a link to a Google Hangout. Rails, HTML5, built in 36 hours.
 
 ## Stack
 - Confident: Ruby, Rails, RSpec, Postgres, Cucumber, Capybara, APIs, TDD, BDD
@@ -38,6 +38,8 @@ People compare editing someone's book to writing on their skin, so I'm well-vers
 I love to combine seemingly unrelated ideas into something new, and two such creations have generated revenue of over £1 million.
 
 ## Education
+*selected as Alumni helper* **Makers Academy** (June 2015)
+
 **Makers Academy** (Feb 2015 to June 2015 -- March Cohort)
 
 *Master of Arts (MA), Children's and Adolescent Literature* **University of Reading, England** (2000 to 2001)
