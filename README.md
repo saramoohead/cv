@@ -1,6 +1,6 @@
 ## Sara O'Connor
 
-I'm an aspiring junior web developer who has spent 13 years in children's book publishing, the last five leading on digital. After a career editing fiction, I love trying to piece together the stories inside code. As a junior developer, I will work hard in a learning-friendly environment where I can be creative and challenged. Currently focusing on developing in Swift.
+After completing a four month intensive coding bootcamp, I'm an aspiring junior web developer who has spent 13 years in children's book publishing, the last five leading on digital. After a career editing fiction, I love trying to piece together the stories inside code. As a junior developer, I will work hard in a learning-friendly environment where I can be creative and challenged. Currently focusing on developing in Swift.
 
 ## Highlight projects
 
@@ -12,26 +12,26 @@ https://github.com/MakersApp
 Chitter Challenge: https://github.com/saramoohead/chitter-chatter-complete
 - Twitter clone, Ruby, Sinatra, BDD with Cucumber
 
-Calculator in Swift: https://github.com/saramoohead/standford-calculator
+Calculator: https://github.com/saramoohead/standford-calculator
 - Calculator in Swift, auto-layout
 
 Makermix: https://github.com/Makermix/pair_helper
 - Pairing generator app for the March 2015 cohort, with an Angular frontend and a Rails backend, built in three days.
 
 Skill Exchange: http://skill-exchange.herokuapp.com
-- Users post theirs skills and/or ask to learn them. The app pairs people up with shared skills and offers signing in with Google and a link to a Google Hangout. Rails, HTML5, built in 36 hours.
+- Built in 36 hours, Rails, HTML5. users post theirs skills and/or ask to learn them. The app pairs people up with shared skills and offers signing in with Google and a link to a Google Hangout.
 
 ## Stack
 - Confident: Ruby, Rails, RSpec, Postgres, Cucumber, Capybara, APIs, TDD, BDD
 - Know: Javascript, Angular, Karma, Protractor, Jasmine, RackTest, OOP
-- Used: Swift, XCode
+- Currently learning: Swift, XCode
 
 ## Previous digital experience
 - Won the data visualisation category at my first hackathon: http://www.thebookseller.com/news/futurebook-hack-chooses-its-winners
 - On the team that won the Hasbro Play/Hack with a Twister hack: http://holition.com/journal/archives/2014/10/pos#h-title
+- Managed set up, input and output of large data systems of thousands of titles of bibliographic information
 - Entertained and inspired hundreds of children for hundreds of hours by creating: https://www.thestoryadventure.com
 - Got mentioned in the Guardian for: https://itunes.apple.com/gb/book/maggot-moon-multi-touch-edition/id557942824?mt=11
-- Rebelled against publishing website convention with: https://www.hotkeybooks.com/
 
 ## Other skills
 I work effectively with senior management to find solutions within budget, and communicate with respect and compassion with creatives (writers, designers, illustrators). The editor's job is to coordinate between the business and the ideas - and I've done it successfully over 200 times.
