@@ -12,8 +12,8 @@ https://github.com/MakersApp
 Chitter Challenge: https://github.com/saramoohead/chitter-chatter-complete
 - Twitter clone, Ruby, Sinatra, BDD with Cucumber
 
-Calculator: https://github.com/saramoohead/standford-calculator
-- Calculator in Swift, auto-layout
+eCommerce demo in Swift: https://github.com/saramoohead/ecommerce_exercise
+- eCommerce demo in Swift, using eyeTest for feature tests
 
 Makermix: https://github.com/Makermix/pair_helper
 - Pairing generator app for the March 2015 cohort, with an Angular frontend and a Rails backend, built in three days.
@@ -22,9 +22,8 @@ Skill Exchange: http://skill-exchange.herokuapp.com
 - Built in 36 hours, Rails, HTML5. users post theirs skills and/or ask to learn them. The app pairs people up with shared skills and offers signing in with Google and a link to a Google Hangout.
 
 ## Stack
-- Confident: Ruby, Rails, RSpec, Postgres, Cucumber, Capybara, APIs, TDD, BDD
+- Confident: Ruby, Rails, RSpec, Swift, XCode, Postgres, Cucumber, Capybara, APIs, TDD, BDD
 - Know: Javascript, Angular, Karma, Protractor, Jasmine, RackTest, OOP
-- Currently learning: Swift, XCode
 
 ## Previous digital experience
 - Won the data visualisation category at my first hackathon: http://www.thebookseller.com/news/futurebook-hack-chooses-its-winners
