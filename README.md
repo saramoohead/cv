@@ -29,7 +29,7 @@ Skill Exchange: http://skill-exchange.herokuapp.com
 ## Previous digital experience
 - Won the data visualisation category at my first hackathon: http://www.thebookseller.com/news/futurebook-hack-chooses-its-winners
 - On the team that won the Hasbro Play/Hack with a Twister hack: http://holition.com/journal/archives/2014/10/pos#h-title
-- Managed set up, input and output of large data systems of thousands of titles of bibliographic information
+- Managed set up, input and output of large data systems of thousands of titles of bibliographic information (ONIX)
 - Entertained and inspired hundreds of children for hundreds of hours by creating: https://www.thestoryadventure.com
 - Got mentioned in the Guardian for: https://itunes.apple.com/gb/book/maggot-moon-multi-touch-edition/id557942824?mt=11
 
