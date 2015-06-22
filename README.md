@@ -24,6 +24,7 @@ Skill Exchange: http://skill-exchange.herokuapp.com
 ## Stack
 - Confident: Ruby, Rails, RSpec, Swift, XCode, Postgres, Cucumber, Capybara, APIs, TDD, BDD
 - Know: Javascript, Angular, Karma, Protractor, Jasmine, RackTest, OOP
+- Other skills: Photoshop, video editing, EPUB3, ONIX
 
 ## Previous digital experience
 - Won the data visualisation category at my first hackathon: http://www.thebookseller.com/news/futurebook-hack-chooses-its-winners
