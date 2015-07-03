@@ -65,5 +65,5 @@ Spent 13 years considering and selecting ideas for investment. Helped bring over
 
 ## Volunteering
 
-*Co-founder* **Undiscovered Voices** (Jun 2002 - Feb 2011)
+*Co-founder* **Undiscovered Voices** (Jun 2006 - Feb 2011)
 
