@@ -4,24 +4,24 @@ After completing a highly selective, four month intensive coding course at Maker
 
 ## Highlight projects
 
-Makers Academy Visitors app
+- Makers Academy Visitors app
+Swift/Objective-C team project that integrates a proximity beacon, Slack message webhooks and Google forms powered by a Rails API.
 Demo video: https://youtu.be/v1GVvMg1-Js
-- Swift/Objective-C team project that integrates a proximity beacon, Slack message webhooks and Google forms powered by a Rails API.
-https://github.com/MakersApp
+Code: https://github.com/MakersApp
 
-eCommerce iPhone app
-https://github.com/saramoohead/ecommerce_exercise (link includes demo gifs)
-- Swift solo project demonstrating basic app logic, layout and design, testes with unit and UI tests
+- eCommerce iPhone app
+Swift solo project demonstrating basic app logic, layout and design, testes with unit and UI tests
+Code with demo gif: https://github.com/saramoohead/ecommerce_exercise
 
-Image Uploading API
-http://frontendforapiimages.herokuapp.com/ (live site)
+- Image Uploader API
+Image uploading exercise, TDD JSON-api specification API with Rails. Front end takes an image, directly uploads to AWS S3, and pushes response into the API, which returns a JSON feed. Captions can be added.
+Live demo site: http://frontendforapiimages.herokuapp.com/
 Front end code: https://github.com/saramoohead/image_upload_front_end
 Back end code: https://github.com/saramoohead/jsonapi_resources_exercise
-- Image uploader exercise, TDD JSON-api specification API with Rails. Front end takes an image, directly uploads to AWS S3, which pushes into the API and returns a JSON feed. Captions can be added.
 
-Twitter clone
+- Twitter clone
+BDD Twitter clone using Ruby and Sinatra with Cucumber for testing
 https://github.com/saramoohead/chitter-chatter-complete
-- BDD Twitter clone using Ruby and Sinatra with Cucumber for testing
 
 ## Stack
 - Confident: Ruby, Rails, RSpec, Swift, XCode, Postgres, Cucumber, Capybara, APIs, TDD, BDD
@@ -55,17 +55,15 @@ I've also been responsible for input and output of large data systems, producing
 
 ## Experience
 
-Spent 13 years considering and selecting ideas for investment. Helped bring over 200 book products to market, including creating several series. Two of my ideas have passed £1 million revenue.
+Spent 13 years selecting ideas for investment. Helped bring over 200 book products to market, including creating several series. Two of my ideas have passed £1 million revenue.
 
-*Fiction Digital Director* **Hot Key Books** (Dec 2011 to Feb 2015)
-
+*Fiction Digital Director* **Hot Key Books** (Dec 2011 to Jan 2015)
 *Senior Editorial Manager* **Hodder Children's Books** (Nov 2010 to Dec 2011)
-
 *Senior Commissioning Editor* **Working Partners Ltd** (Sept 2004 - Nov 2010)
-
 *Co-founder* **Book Bound** (April 2013 - present)
 
 ## Volunteering
 
+*Mentor* **Young Rewired State, Festival of Code** (July 2015)
 *Co-founder* **Undiscovered Voices** (Jun 2006 - Feb 2011)
 
