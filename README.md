@@ -1,30 +1,32 @@
 ## Sara O'Connor
 
-After completing a four month intensive coding bootcamp, I'm an aspiring junior web developer who has spent 13 years in children's book publishing, the last five leading on digital. After a career editing fiction, I love trying to piece together the stories inside code. As a junior developer, I will work hard in a learning-friendly environment where I can be creative and challenged. Currently focusing on developing in Swift.
+After completing a highly selective, four month intensive coding course at Makers Academy, I'm an aspiring junior web developer looking for an opportunity to work hard in a learning-friendly environment where I can be creative and challenged. Prior to switching to a career in software development, I spent 13 years in children's book publishing, the last five leading on digital.
 
 ## Highlight projects
 
-Makers Academy Visitors App
+Makers Academy Visitors app
 Demo video: https://youtu.be/v1GVvMg1-Js
-- Swift/Objective-C app integrating a proximity beacon, Slack message webhooks and Google forms powered by a Rails API.
+- Swift/Objective-C team project that integrates a proximity beacon, Slack message webhooks and Google forms powered by a Rails API.
 https://github.com/MakersApp
 
-Chitter Challenge: https://github.com/saramoohead/chitter-chatter-complete
-- Twitter clone, Ruby, Sinatra, BDD with Cucumber
+eCommerce iPhone app
+https://github.com/saramoohead/ecommerce_exercise (link includes demo gifs)
+- Swift solo project demonstrating basic app logic, layout and design, testes with unit and UI tests
 
-Calculator: https://github.com/saramoohead/standford-calculator
-- Calculator in Swift, auto-layout
+Image Uploading API
+http://frontendforapiimages.herokuapp.com/ (live site)
+Front end code: https://github.com/saramoohead/image_upload_front_end
+Back end code: https://github.com/saramoohead/jsonapi_resources_exercise
+- Image uploader exercise, TDD JSON-api specification API with Rails. Front end takes an image, directly uploads to AWS S3, which pushes into the API and returns a JSON feed. Captions can be added.
 
-Makermix: https://github.com/Makermix/pair_helper
-- Pairing generator app for the March 2015 cohort, with an Angular frontend and a Rails backend, built in three days.
+Twitter clone
+https://github.com/saramoohead/chitter-chatter-complete
+- BDD Twitter clone using Ruby and Sinatra with Cucumber for testing
 
-Skill Exchange: http://skill-exchange.herokuapp.com
-- Built in 36 hours, Rails, HTML5. users post theirs skills and/or ask to learn them. The app pairs people up with shared skills and offers signing in with Google and a link to a Google Hangout.
 
 ## Stack
-- Confident: Ruby, Rails, RSpec, Postgres, Cucumber, Capybara, APIs, TDD, BDD
-- Know: Javascript, Angular, Karma, Protractor, Jasmine, RackTest, OOP
-- Currently learning: Swift, XCode
+- Confident: Ruby, Rails, RSpec, Swift, XCode, Postgres, Cucumber, Capybara, APIs, TDD, BDD, OOP
+- Know: Javascript, Angular, Karma, Protractor, Jasmine, RackTest
 
 ## Previous digital experience
 - Won the data visualisation category at my first hackathon: http://www.thebookseller.com/news/futurebook-hack-chooses-its-winners
