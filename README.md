@@ -43,27 +43,22 @@ People compare editing someone's book to writing on their skin, so I'm well-vers
 I've also been responsible for input and output of large data systems, producing endless standardised and customised reports.
 
 # Education
-*selected as Alumni helper* **Makers Academy** (June 2015)
-
-**Makers Academy** (Feb 2015 to June 2015 -- March Cohort)
-
-*Master of Arts (MA), Children's and Adolescent Literature* **University of Reading, England** (2000 to 2001)
-
-*Bachelor of Fine Arts (BFA), Writing, Literature and Publishing* **Emerson College, Boston** (1997 - 2000)
-
-*High School Diploma* **International School of Kuala Lumpur, Malaysia** (1993 - 1997)
+- *Selected as Alumni helper* **Makers Academy** (June 2015)
+- **Makers Academy** (Feb 2015 to June 2015 -- March Cohort)
+- *Master of Arts (MA), Children's and Adolescent Literature* **University of Reading, England** (2000 to 2001)
+- *Bachelor of Fine Arts (BFA), Writing, Literature and Publishing* **Emerson College, Boston** (1997 - 2000)
+- *High School Diploma* **International School of Kuala Lumpur, Malaysia** (1993 - 1997)
 
 # Experience
 
 Spent 13 years selecting ideas for investment. Helped bring over 200 book products to market, including creating several series. Two of my ideas have passed £1 million revenue.
 
-*Fiction Digital Director* **Hot Key Books** (Dec 2011 to Jan 2015)
-*Senior Editorial Manager* **Hodder Children's Books** (Nov 2010 to Dec 2011)
-*Senior Commissioning Editor* **Working Partners Ltd** (Sept 2004 - Nov 2010)
-*Co-founder* **Book Bound** (April 2013 - present)
+- *Fiction Digital Director* **Hot Key Books** (Dec 2011 to Jan 2015)
+- *Senior Editorial Manager* **Hodder Children's Books** (Nov 2010 to Dec 2011)
+- *Senior Commissioning Editor* **Working Partners Ltd** (Sept 2004 - Nov 2010)
+- *Co-founder* **Book Bound** (April 2013 - present)
 
 # Volunteering
-
-*Mentor* **Young Rewired State, Festival of Code** (July 2015)
-*Co-founder* **Undiscovered Voices** (Jun 2006 - Feb 2011)
+- *Mentor* **Young Rewired State, Festival of Code** (July 2015)
+- *Co-founder* **Undiscovered Voices** (Jun 2006 - Feb 2011)
 
