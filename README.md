@@ -21,7 +21,7 @@ Image uploading exercise, TDD JSON-api specification API with Rails. Front end t
 
 #### Twitter clone
 BDD Twitter clone using Ruby and Sinatra with Cucumber for testing
-- https://github.com/saramoohead/chitter-chatter-complete
+- Code with screenshot: https://github.com/saramoohead/chitter-chatter-complete
 
 # Stack
 - Confident: Ruby, Rails, RSpec, Swift, XCode, Postgres, Cucumber, Capybara, APIs, TDD, BDD
