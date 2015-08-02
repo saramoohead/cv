@@ -10,7 +10,7 @@ Swift/Objective-C team project that integrates a proximity beacon, Slack message
 - Code: https://github.com/MakersApp
 
 #### eCommerce iPhone app
-Swift solo project demonstrating basic app logic, layout and design, tests with unit and UI tests
+Swift solo project demonstrating basic app logic, layout and design, unit and UI tests
 - Code with demo gif: https://github.com/saramoohead/ecommerce_exercise
 
 #### Image Uploader API
