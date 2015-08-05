@@ -66,3 +66,6 @@ Spent 13 years selecting ideas for investment. Helped bring over 200 book produc
 - *Mentor* **Young Rewired State, Festival of Code** (July 2015)
 - *Co-founder* **Undiscovered Voices** (Jun 2006 - Feb 2011)
 
+# Online
+- https://twitter.com/saramoohead
+- http://kidsstoriesandtech.tumblr.com/
