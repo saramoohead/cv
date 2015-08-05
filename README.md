@@ -25,7 +25,7 @@ BDD Twitter clone using Ruby and Sinatra with Cucumber for testing
 
 #### Front end style
 Simple HTML and CSS website with Mailchimp integration
-https://codetogetherprincesrisborough.herokuapp.com/
+- Live site: https://codetogetherprincesrisborough.herokuapp.com/
 
 # Stack
 - Confident: Ruby, Rails, RSpec, Swift, XCode, Postgres, Cucumber, Capybara, APIs, TDD, BDD
