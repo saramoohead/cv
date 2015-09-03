@@ -2,7 +2,7 @@
 
 After completing a highly selective, four month intensive coding course at Makers Academy, I'm an aspiring junior web developer looking for an opportunity to work hard in a learning-friendly environment where I can be creative and challenged. Prior to switching to a career in software development, I spent 13 years in children's book publishing, the last five leading on digital.
 
-## Currently working on:
+## Currently working on
 Meteor.js app for a charity, real time chat based around a video, with admin panel for content and comment modertaion.
 
 ## Highlight projects
