@@ -4,7 +4,7 @@ After completing a highly selective, four month intensive coding course at Maker
 
 ## Highlight projects
 
-#### Currently working on 
+#### Currently working on:
 Meteor.js app for a charity, real time chat based around a video, with admin panel for content and comment modertaion.
 
 #### Makers Academy Visitors app
