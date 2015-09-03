@@ -43,11 +43,11 @@ Simple HTML and CSS website with Mailchimp integration
 - Got mentioned in the Guardian for Apple-featured iBooks Author product: https://itunes.apple.com/gb/book/maggot-moon-multi-touch-edition/id557942824?mt=11
 
 ## Other skills
-I work effectively with senior management to find solutions within budget, and communicate with respect and compassion with creatives (writers, designers, illustrators). The editor's job is to coordinate between the business and the ideas - and I've done it successfully over 200 times.
+I work effectively with senior management to find solutions within budget, and communicate with respect and compassion with creatives (writers, designers, illustrators). The editor's job is to coordinate between the business and the ideas - and I've done it successfully over 200 times, making me an ideal developer who can balance customer and business needs in the code I deliver.
 
-People compare editing someone's book to writing on their skin, so I'm well-versed in diplomacy, negotiation, prioritising change and searching for what people are really trying to say. I love to combine seemingly unrelated ideas into something new, and two such creations have generated revenue of over £1 million.
+People compare editing someone's book to writing on their skin, so I'm well-versed in diplomacy, negotiation, prioritising change and searching for what people are really trying to say. Editing also requires outrageous attention to detail and picking through lines and lines of text - just like code. I love to combine seemingly unrelated ideas into something new - two such creations have generated revenue of over £1 million.
 
-I've also been responsible for input and output of large data systems, producing endless standardised and customised reports.
+I've also been responsible for input and output of large data systems, producing endless standardised and customised reports, giving me an appreciation for the challenges of scaling code.
 
 ## Education
 - *Selected as Alumni helper* **Makers Academy** (June 2015)
