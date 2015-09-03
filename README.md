@@ -3,7 +3,7 @@
 After completing a highly selective, four month intensive coding course at Makers Academy, I'm an aspiring junior web developer looking for an opportunity to work hard in a learning-friendly environment where I can be challenged to build useful and well-crafted things. Prior to switching to a career in software development, I spent 13 years in children's book publishing, the last five leading on digital.
 
 ## Currently working on
-Meteor.js app for a charity, real time chat based around a video, with admin panel for content and comment modertaion.
+Meteor.js app for a charity: real time chat based around a video, with admin panel for content and comment modertaion.
 
 ## Highlight projects
 
@@ -36,11 +36,11 @@ Simple HTML and CSS website with Mailchimp integration
 - Other skills: Photoshop, video editing, EPUB3, ONIX
 
 ## Previous digital experience
-- Won the data visualisation category at my first hackathon: http://www.thebookseller.com/news/futurebook-hack-chooses-its-winners
-- On the team that won the Hasbro Play/Hack with a Twister hack: http://holition.com/journal/archives/2014/10/pos#h-title
+- Won the data visualisation category at my first hackathon with My Book is Bigger Than Yours: http://www.thebookseller.com/news/futurebook-hack-chooses-its-winners
+- On the team that won the Hasbro Play/Hack hacking a Twister mat with burrito wrappers and a Makey Makey: http://holition.com/journal/archives/2014/10/pos#h-title
 - Managed set up, input and output of large data systems of thousands of titles of bibliographic information (ONIX)
-- Entertained and inspired hundreds of children for hundreds of hours by creating: https://www.thestoryadventure.com
-- Got mentioned in the Guardian for: https://itunes.apple.com/gb/book/maggot-moon-multi-touch-edition/id557942824?mt=11
+- Entertained and inspired hundreds of children for hundreds of hours by creating online writing community: https://www.thestoryadventure.com
+- Got mentioned in the Guardian for Apple-featured iBooks Author product: https://itunes.apple.com/gb/book/maggot-moon-multi-touch-edition/id557942824?mt=11
 
 ## Other skills
 I work effectively with senior management to find solutions within budget, and communicate with respect and compassion with creatives (writers, designers, illustrators). The editor's job is to coordinate between the business and the ideas - and I've done it successfully over 200 times.
