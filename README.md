@@ -27,10 +27,8 @@ BDD Twitter clone using Ruby and Sinatra with Cucumber for testing
 - Code with screenshot: https://github.com/saramoohead/chitter-chatter-complete
 
 #### Front end style
-Parralax scrolling TDD Rails app
-- https://github.com/saramoohead/makers_in_space
-Simple HTML and CSS website with Mailchimp integration
-- Live site: https://codetogetherprincesrisborough.herokuapp.com/
+- Parralax scrolling TDD Rails app: https://github.com/saramoohead/makers_in_space
+- Simple HTML and CSS website with Mailchimp integration. Live site: https://codetogetherprincesrisborough.herokuapp.com/
 
 ## Stack
 - Confident: Ruby, Rails, RSpec, Swift, XCode, Postgres, Cucumber, Capybara, APIs, TDD, BDD
