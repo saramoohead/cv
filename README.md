@@ -2,7 +2,7 @@
 
 After completing a highly selective, four month intensive coding course at Makers Academy, I'm an aspiring junior web developer looking for an opportunity to work hard in a learning-friendly environment where I can be challenged to build useful and well-crafted things. Prior to switching to a career in software development, I spent 13 years in children's book publishing, the last five leading on digital.
 
-Since leaving Makers, I've done two short internships, both working with Rails, at [Bibliocloud](http://bibliocloud.com/) gaining experience with coming into large exisiting code bases and at [Fatmap](http://fatmap.com/), building in ActiveAdmin for a greenfield app.
+Since leaving Makers, I've done two short internships, both working with Rails, at [Bibliocloud](http://bibliocloud.com/) gaining experience with learning my way around a large exisiting code base and at 3D skiing map [Fatmap](http://fatmap.com/), building in ActiveAdmin for a greenfield app.
 
 ## Currently working on
 Meteor.js resopnsive app for a charity: real time chat based around a video, with admin panel for content and comment moderation. Live demo is hosted on meteor.com so firing up is sometimes slow: http://oc_connect.meteor.com/. (Use "soc" and "socsoc" for admin privileges.)
