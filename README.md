@@ -1,13 +1,15 @@
 ## Sara O'Connor
 
-After completing a highly selective, four month intensive coding course at Makers Academy, I'm an aspiring junior web developer looking for an opportunity to work hard in a learning-friendly environment where I can be challenged to build useful and well-crafted things. Prior to switching to a career in software development, I spent 13 years in children's book publishing, the last five leading on digital.
+After completing a highly selective, four month intensive coding course at Makers Academy and two internships, I've begun my development career at an enterprise software company, focusing on SQL. 
 
-Since leaving Makers, I've done two short internships, both working with Rails, at [Bibliocloud](http://bibliocloud.com/) gaining experience with learning my way around a large exisiting code base and at 3D skiing map [Fatmap](http://fatmap.com/), building in ActiveAdmin for a greenfield app.
+Prior to switching to a career in software development, I spent 13 years in children's book publishing, the last five leading on digital.
 
-## Currently working on
-Meteor.js resopnsive app for a charity: real time chat based around a video, with admin panel for content and comment moderation. Live demo is hosted on meteor.com so firing up is sometimes slow: http://oc_connect.meteor.com/. (Use "soc" and "socsoc" for admin privileges.)
+## Internships
+- [Bibliocloud](http://bibliocloud.com/) Rails, gaining experience learning my way around a large exisiting code base
+- 3D skiing map [Fatmap](http://fatmap.com/), building in ActiveAdmin for a greenfield app
 
 ## Highlight projects
+Meteor.js resopnsive app for a charity: real time chat based around a video, with admin panel for content and comment moderation. Live demo is hosted on meteor.com so firing up is sometimes slow: http://oc_connect.meteor.com/. (Use "soc" and "socsoc" for admin privileges.)
 
 #### Makers Academy Visitors app
 Swift/Objective-C team project that integrates a proximity beacon, Slack message webhooks and Google forms powered by a Rails API.
