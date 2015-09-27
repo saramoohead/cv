@@ -37,12 +37,15 @@ BDD Twitter clone using Ruby and Sinatra with Cucumber for testing
 - Know: Javascript, Angular, Karma, Protractor, Jasmine, RackTest, OOP
 - Other skills: Photoshop, video editing, EPUB3, ONIX
 
-## Previous digital experience
-- Won the data visualisation category at my first hackathon with My Book is Bigger Than Yours: http://www.thebookseller.com/news/futurebook-hack-chooses-its-winners
+## Hackathons
+- Won Personalised Experiences Challenge from BBC Connected Studio Challenge and Best Use of Twitter at Over the Air 2015 for Tweet Me News
 - On the team that won the Hasbro Play/Hack hacking a Twister mat with burrito wrappers and a Makey Makey: http://holition.com/journal/archives/2014/10/pos#h-title
+- Won the data visualisation category at my first hackathon with My Book is Bigger Than Yours: http://www.thebookseller.com/news/futurebook-hack-chooses-its-winners
+
+## Previous digital experience
 - Managed set up, input and output of large data systems of thousands of titles of bibliographic information (ONIX)
 - Entertained and inspired hundreds of children for hundreds of hours by creating online writing community: https://www.thestoryadventure.com
-- Got mentioned in the Guardian for Apple-featured iBooks Author product: https://itunes.apple.com/gb/book/maggot-moon-multi-touch-edition/id557942824?mt=11
+- Got mentioned in the Guardian for Apple-banner-featured iBooks Author product: https://itunes.apple.com/gb/book/maggot-moon-multi-touch-edition/id557942824?mt=11
 
 ## Other skills
 I work effectively with senior management to find solutions within budget, and communicate with respect and compassion with creatives (writers, designers, illustrators). The editor's job is to coordinate between the business and the ideas - and I've done it successfully over 200 times, making me an ideal developer who can balance customer and business needs in the code I deliver.
