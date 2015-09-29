@@ -6,13 +6,14 @@ Prior to switching to a career in software development, I spent 13 years in chil
 
 ## Internships
 - [Bibliocloud](http://bibliocloud.com/) Rails, gaining experience learning my way around a large exisiting code base
-- 3D skiing map [Fatmap](http://fatmap.com/), building in ActiveAdmin for a greenfield app
+- 3D skiing map [Fatmap](http://fatmap.com/), building out ActiveAdmin for a greenfield app using RSpec, Cucumber, Cancancan, etc
 
 ## Highlight projects
+#### Meteor.js Prototype
 Meteor.js resopnsive app for a charity: real time chat based around a video, with admin panel for content and comment moderation. Live demo is hosted on meteor.com so firing up is sometimes slow: http://oc_connect.meteor.com/. (Use "soc" and "socsoc" for admin privileges.)
 
 #### Makers Academy Visitors app
-Swift/Objective-C team project that integrates a proximity beacon, Slack message webhooks and Google forms powered by a Rails API.
+Swift team project that integrates a proximity beacon, Slack message webhooks and Google forms powered by a Rails API.
 - Demo video: https://youtu.be/v1GVvMg1-Js
 - Code: https://github.com/MakersApp
 
