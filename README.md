@@ -10,7 +10,7 @@ Prior to switching to a career in software development, I spent 13 years in chil
 
 ## Highlight projects
 #### Meteor.js Prototype
-Meteor.js resopnsive app for a charity: real time chat based around a video, with admin panel for content and comment moderation. Live demo is hosted on meteor.com so firing up is sometimes slow: http://oc_connect.meteor.com/. (Use "soc" and "socsoc" for admin privileges.)
+Meteor.js resopnsive app for a charity: real time chat based around a video, with admin panel for content and comment moderation. Live demo is hosted on meteor.com so firing up is sometimes slow: http://oc_connect.meteor.com/.
 
 #### Makers Academy Visitors app
 Swift team project that integrates a proximity beacon, Slack message webhooks and Google forms powered by a Rails API.
