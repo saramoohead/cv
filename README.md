@@ -41,7 +41,7 @@ BDD Twitter clone using Ruby and Sinatra with Cucumber for testing
 - Other skills: Photoshop, video editing, EPUB3, ONIX
 
 ## Hackathons
-- Won Personalised Experiences Challenge from BBC Connected Studio Challenge and Best Use of Twitter at Over the Air 2015 for Tweet Me News
+- Won special mention from Twitter and from the BBC in Personalised Experiences Challenge from BBC Connected Studio Challenge and Best Use of Twitter at Over the Air 2015 for Tweet Me News
 - On the team that won the Hasbro Play/Hack hacking a Twister mat with burrito wrappers and a Makey Makey: http://holition.com/journal/archives/2014/10/pos#h-title
 - Won the data visualisation category at my first hackathon with My Book is Bigger Than Yours: http://www.thebookseller.com/news/futurebook-hack-chooses-its-winners
 
