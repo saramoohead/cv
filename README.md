@@ -1,7 +1,5 @@
 ## Sara O'Connor
 
-After completing a highly selective, four month intensive coding course at Makers Academy and two internships, I've begun my development career at an enterprise software company, focusing on SQL. 
-
 Prior to switching to a career in software development, I spent 13 years in children's book publishing, the last five leading on digital.
 
 ## Current Employment
@@ -43,9 +41,9 @@ BDD Twitter clone using Ruby and Sinatra with Cucumber for testing
 - Simple HTML and CSS website with Mailchimp integration. Live site: https://codetogetherprincesrisborough.herokuapp.com/
 
 ## Stack
-- Confident: Ruby, Rails, RSpec, Swift, XCode, Postgres, Cucumber, Capybara, APIs, TDD, BDD
-- Know: Javascript, Angular, Karma, Protractor, Jasmine, RackTest, OOP
-- Other skills: Photoshop, video editing, EPUB3, ONIX
+- Confident: Procedural TSQL, MeteorJS, APIs, OOP, TDD, BDD
+- Know: Ruby, Rails, RSpec, Swift, XCode, Postgres, Cucumber, Capybara, Javascript, Angular, Karma, Protractor, Jasmine, RackTest
+- Other skills: Photoshop, Final Cut Pro, EPUB3, ONIX
 
 ## Hackathons
 - Won special mention from Twitter and from the BBC in Personalised Experiences Challenge from BBC Connected Studio Challenge and Best Use of Twitter at Over the Air 2015 for Tweet Me News
