@@ -5,7 +5,7 @@ Prior to switching to a career in software development, I spent 13 years in chil
 ## Current Employment
 - [Exceedra](http://www.exceedra.com/) SQL database development, inbound and outbound data, XML, SSRS, Agile, Jira
 
-## Current project
+## Recent project
 #### Meteor.js Bingo Playground
 First iteration of bingo app was a display site calling images alongside numbers for a All Ages Family Bingo fundraiser. (We raised £1000!) This new iteration allows the children to draw images themselves, upload them, create boards of their images and see their images called alongside the numbers during the event. (Deadline: mid-April).
 
@@ -15,7 +15,7 @@ First iteration of bingo app was a display site calling images alongside numbers
 
 ## Previous highlight projects
 #### Meteor.js Prototype
-Meteor.js responsive app for a charity: real time chat based around a video, with admin panel for content and comment moderation. Live demo is hosted on meteor.com so firing up is sometimes slow: http://oc_connect.meteor.com/.
+Meteor.js responsive app for a charity: real time chat based around a video, with admin panel for content and comment moderation. Live demo is hosted on heroku so firing up is sometimes slow: https://onlyconnectmade.herokuapp.com/.
 
 #### Makers Academy Visitors app
 Swift team project that integrates a proximity beacon, Slack message webhooks and Google forms powered by a Rails API.
@@ -83,6 +83,5 @@ Spent 13 years selecting ideas for investment. Helped bring over 200 book produc
 - *Mentor* **Young Rewired State, Festival of Code** (July 2015)
 - *Co-founder* **Undiscovered Voices** (Jun 2006 - Feb 2011)
 
-## Online
-- https://twitter.com/saramoohead
-- http://kidsstoriesandtech.tumblr.com/
+## People say
+- ‘If New York were to experience another blackout, I am convinced that the entire city could run on Sara’s energy and efficiency alone!’ - Megan Tingley, EVP Publisher of Little, Brown Books for Young Readers
