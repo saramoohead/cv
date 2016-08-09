@@ -79,7 +79,7 @@ Spent 13 years selecting ideas for investment. Helped bring over 200 book produc
 - *Co-founder* **Book Bound** (April 2013 - present)
 
 ## Volunteering
-- *Mentor/Tutor* **Mums in Technology** (Sept 2015)
+- *Mentor/Tutor* **Mums in Technology** (Sept 2015, June 2016)
 - *Mentor* **Young Rewired State, Festival of Code** (July 2015)
 - *Co-founder* **Undiscovered Voices** (Jun 2006 - Feb 2011)
 
