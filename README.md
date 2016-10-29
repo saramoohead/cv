@@ -7,7 +7,7 @@ I am a full-time SQL engineer at trade management financial software company Exc
 
 ## Recent project
 #### Meteor.js Bingo Playground
-First iteration of bingo app was a display site calling images alongside numbers for a All Ages Family Bingo fundraiser. (We raised £1000!) Second iteration allows the children to create boards of their own images, optimsed for print, and see their images called alongside the numbers during the event.
+First iteration of bingo app was a display site calling images alongside numbers for a All Ages Family Bingo fundraiser. Second iteration allows the children to create boards of their own images, optimsed for print, and see their images called alongside the numbers during the event. (We raised £2000!)
 
 ## Internships
 - [Bibliocloud](http://bibliocloud.com/) Rails, gaining experience learning my way around a large exisiting code base
