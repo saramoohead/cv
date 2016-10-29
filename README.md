@@ -22,16 +22,14 @@ I am a full-time SQL engineer at a financial software company, with internship e
 
 
 ## Highlight projects
+#### Family Bingo Club - side project using Javascript (Meteor.js)
+Sole developer on web app to host bingo night fundraiser at a local school for all ages. To cater for pre-school children, the app called a number and a picture side by side. The second iteration allowed the boards to be the children's own images -- the site built the boards, optimised for print and then called those images with a description and artist credit. Now used three times, the web app has raised over £2000 for the school.
 
-## Recent project
-#### Meteor.js Bingo Playground
-First iteration of bingo app was a display site calling images alongside numbers for a All Ages Family Bingo fundraiser. Second iteration allows the children to create boards of their own images, optimsed for print, and see their images called alongside the numbers during the event. (We raised £2000!)
-
-#### Meteor.js Prototype
-Meteor.js responsive app for a charity: real time chat based around a video, with admin panel for content and comment moderation. Live demo is hosted on heroku so firing up is sometimes slow: https://onlyconnectmade.herokuapp.com/.
+#### Made - freelance project using Javascript (Meteor.js)
+Sole developer on real-time chat web app, with integrated video as a freelancer working with Bold Creative. Only Connect is a prison rehablitation charity and this protoype set out to prove that regular video content from mentors could encourage faster and more impactful rehabilitation, helping their clients get "Made". Live demo is hosted on Heroku so firing up is sometimes slow: https://onlyconnectmade.herokuapp.com/.
 
 #### Makers Academy Visitors app
-Swift team project that integrates a proximity beacon, Slack message webhooks and Google forms powered by a Rails API.
+Built the Rails API and Slack integration, as well as designed the UI, for a team-project Swift app with proximity beacons and Google forms.
 - Demo video: https://youtu.be/v1GVvMg1-Js
 - Code: https://github.com/MakersApp
 
