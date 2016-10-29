@@ -3,11 +3,11 @@
 I am a full-time SQL engineer at trade management financial software company Exceedra, with internship experience of Ruby on Rails, freelance experience of MeteorJS and just-for-fun experience of iOS Swift. Prior to switching to a career in software development, I spent 13 years in children's book publishing, the last five leading on digital. I apply my years of editorial pendantry to the quality of my code, and I love to learn.
 
 ## Current Employment
-- [Exceedra](http://www.exceedra.com/) SQL database development, inbound and outbound data, XML, SSRS, Agile, Jira
+- [Exceedra](http://www.exceedra.com/) SQL database development, complex stored procedures, millions of points of inbound and outbound data, XML, SSRS, Agile, Jira
 
 ## Recent project
 #### Meteor.js Bingo Playground
-First iteration of bingo app was a display site calling images alongside numbers for a All Ages Family Bingo fundraiser. (We raised £1000!) This new iteration allows the children to draw images themselves, upload them, create boards of their images and see their images called alongside the numbers during the event. (Deadline: mid-April).
+First iteration of bingo app was a display site calling images alongside numbers for a All Ages Family Bingo fundraiser. (We raised £1000!) Second iteration allows the children to create boards of their own images, optimsed for print, and see their images called alongside the numbers during the event.
 
 ## Internships
 - [Bibliocloud](http://bibliocloud.com/) Rails, gaining experience learning my way around a large exisiting code base
