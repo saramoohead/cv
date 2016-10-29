@@ -1,19 +1,32 @@
 ## Sara O'Connor
 
-I am a full-time SQL engineer at trade management financial software company Exceedra, with internship experience of Ruby on Rails, freelance experience of MeteorJS and just-for-fun experience of iOS Swift. Prior to switching to a career in software development, I spent 13 years in children's book publishing, the last five leading on digital. I apply my years of editorial pendantry to the quality of my code, and I love to learn.
+I am a full-time SQL engineer at a financial software company, with internship experience of Ruby on Rails, freelance experience of Javascript (MeteorJS) and just-for-fun experience of Swift. I'm looking to expand my strong database knowledge into a more full stack role.
 
 ## Current Employment
-- [Exceedra](http://www.exceedra.com/) SQL database development, complex stored procedures, millions of points of inbound and outbound data, XML, SSRS, Agile, Jira
-
-## Recent project
-#### Meteor.js Bingo Playground
-First iteration of bingo app was a display site calling images alongside numbers for a All Ages Family Bingo fundraiser. Second iteration allows the children to create boards of their own images, optimsed for print, and see their images called alongside the numbers during the event. (We raised £2000!)
+- Constultant at [Exceedra](http://www.exceedra.com/) using complex procedural TSQL to process and present financial data for brands like Ginsters, Weetabix and Dyson
+- Made tech lead on a new client project after only a year
+- Company lead on new reporting structure using Telerik (XML) instead of SSRS to provide more flexibility and speed to standard and custom reports
+- Debugging and optimising existing procedures
+- Building data validations for millions of points of inbound and outbound data
+- After seeing repetition and human error creep into my and other's custom data set ups, wrote dynamic SQL procedure to generate straight formdatabases and save hours of manual intervention and eliminate human error
 
 ## Internships
 - [Bibliocloud](http://bibliocloud.com/) Rails, gaining experience learning my way around a large exisiting code base
 - 3D skiing map [Fatmap](http://fatmap.com/), building out ActiveAdmin for a greenfield app using RSpec, Cucumber, Cancancan, etc
 
-## Previous highlight projects
+## Stack
+- Professional experience with: Procedural TSQL, Javascript (MeteorJS), XML, SSRS, HTML5, CSS, Agile, Jira
+- Internship experience with: Ruby, Rails, RSpec
+- Learning experience with: Swift, XCode, Postgres, Cucumber, Capybara, Angular, Karma, Protractor, Jasmine
+- Other skills: Photoshop, Final Cut Pro, EPUB3, ONIX
+
+
+## Highlight projects
+
+## Recent project
+#### Meteor.js Bingo Playground
+First iteration of bingo app was a display site calling images alongside numbers for a All Ages Family Bingo fundraiser. Second iteration allows the children to create boards of their own images, optimsed for print, and see their images called alongside the numbers during the event. (We raised £2000!)
+
 #### Meteor.js Prototype
 Meteor.js responsive app for a charity: real time chat based around a video, with admin panel for content and comment moderation. Live demo is hosted on heroku so firing up is sometimes slow: https://onlyconnectmade.herokuapp.com/.
 
@@ -41,10 +54,7 @@ BDD Twitter clone using Ruby and Sinatra with Cucumber for testing
 - Parralax scrolling TDD Rails app. Live site: https://makers-in-space.herokuapp.com/
 - Simple HTML and CSS website with Mailchimp integration. Live site: https://codetogetherprincesrisborough.herokuapp.com/
 
-## Stack
-- Confident: Procedural TSQL, MeteorJS, APIs, OOP, TDD, BDD
-- Know: Ruby, Rails, RSpec, Swift, XCode, Postgres, Cucumber, Capybara, Javascript, Angular, Karma, Protractor, Jasmine, RackTest
-- Other skills: Photoshop, Final Cut Pro, EPUB3, ONIX
+
 
 ## Hackathons
 - Won special mention from Twitter and from the BBC in Personalised Experiences Challenge from BBC Connected Studio Challenge and Best Use of Twitter at Over the Air 2015 for Tweet Me News
