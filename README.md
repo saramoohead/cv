@@ -1,6 +1,6 @@
 ## Sara O'Connor
 
-I am a full-time SQL engineer at trade management financial software company Exceedra, with internship experience of Ruby on Rails, freelance experience of MeteorJS and just-for-fun experience of iOS Swift. Prior to switching to a career in software development, I spent 13 years in children's book publishing, the last five leading on digital. I love to learn and apply my years of editorial pendantry to te quality of my code.
+I am a full-time SQL engineer at trade management financial software company Exceedra, with internship experience of Ruby on Rails, freelance experience of MeteorJS and just-for-fun experience of iOS Swift. Prior to switching to a career in software development, I spent 13 years in children's book publishing, the last five leading on digital. I apply my years of editorial pendantry to the quality of my code, and I love to learn.
 
 ## Current Employment
 - [Exceedra](http://www.exceedra.com/) SQL database development, inbound and outbound data, XML, SSRS, Agile, Jira
