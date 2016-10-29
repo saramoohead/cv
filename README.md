@@ -4,11 +4,11 @@ I am a full-time SQL engineer at a financial software company, with internship e
 
 ## Current Employment (October 2015 - present)
 - Constultant at [Exceedra](http://www.exceedra.com/) using complex procedural TSQL to process and present financial data for brands like Ginsters, Weetabix and Dyson
-- Made tech lead on a new client project after only a year
-- Company lead on new reporting structure using Telerik (XML) instead of SSRS to provide more flexibility and speed to standard and custom reports
+- Made tech lead on a new client project (Oct 2016)
+- Company expert on new structure transforming data via TSQL to XML for Telerik, instead of SSRS to provide more flexibility and speed to standard and custom reports
 - Debugging and optimising existing procedures
 - Building data validations for millions of points of inbound and outbound data
-- After seeing repetition and human error creep into my and other's custom data set ups, wrote dynamic SQL procedure to generate straight formdatabases and save hours of manual intervention and eliminate human error
+- After seeing repetition and human error creep into my and other's custom data set ups, wrote dynamic SQL procedure to generate straight from the database to save hours of manual intervention and eliminate human error
 
 ## Internships (June - September 2015)
 - [Bibliocloud](http://bibliocloud.com/) Rails, gaining experience learning my way around a large exisiting code base
