@@ -1,6 +1,6 @@
 ## Sara O'Connor
 
-Prior to switching to a career in software development, I spent 13 years in children's book publishing, the last five leading on digital.
+Prior to switching to a career in software development, I spent 13 years in children's book publishing, the last five leading on digital. I am now a full-time SQL engineer at financial trade management enterprise software company Exceedra.
 
 ## Current Employment
 - [Exceedra](http://www.exceedra.com/) SQL database development, inbound and outbound data, XML, SSRS, Agile, Jira
