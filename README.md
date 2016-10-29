@@ -29,16 +29,16 @@ Sole developer on web app to host bingo night fundraiser at a local school for a
 Sole developer on real-time chat web app, with integrated video as a freelancer working with Bold Creative. Only Connect is a prison rehablitation charity and this protoype set out to prove that regular video content from mentors could encourage faster and more impactful rehabilitation, helping their clients get "Made". Live demo is hosted on Heroku so firing up is sometimes slow: https://onlyconnectmade.herokuapp.com/.
 
 #### Makers Academy Visitors app (completed June 2015)
-Solo developer on the Rails API and Slack integration for a team Swift project. Also designed the UI for the iOS app to help visitors arriving at Makers Academy for interviews, also using proximity beacons and Google forms.
+Lead developer on the Rails API and Slack integration for a team Swift project. Also designed the UI for the iOS app to help visitors arriving at Makers Academy for interviews, also using proximity beacons and Google forms.
 - Demo video: https://youtu.be/v1GVvMg1-Js
 - Code: https://github.com/MakersApp
 
 #### eCommerce iPhone app (completed July 2015)
-Solo developer on demonstration Swift app to show logic, layout and design, unit and UI tests
+Sole developer on demonstration Swift app to show logic, layout and design, unit and UI tests
 - Code with demo gif: https://github.com/saramoohead/ecommerce_exercise
 
 #### Image Uploader API
-Solo developer on image uploading exercise, TDD JSON-api specification API with Rails. Front end takes an image, directly uploads to AWS S3, and pushes response into the API, which returns a JSON feed. Captions can be added.
+Sole developer on image uploading exercise, TDD JSON-api specification API with Rails. Front end takes an image, directly uploads to AWS S3, and pushes response into the API, which returns a JSON feed. Captions can be added.
 - Live demo site: http://frontendforapiimages.herokuapp.com/
 - Front end code: https://github.com/saramoohead/image_upload_front_end
 - Back end code: https://github.com/saramoohead/jsonapi_resources_exercise
@@ -63,7 +63,7 @@ BDD Twitter clone using Ruby and Sinatra with Cucumber for testing
 - Got mentioned in the Guardian for Apple-banner-featured iBooks Author product: https://itunes.apple.com/gb/book/maggot-moon-multi-touch-edition/id557942824?mt=11
 
 ## Other skills
-Prior to becoming a software enginner, I worked in children's book publishing for 13 years. I work effectively with senior management to find solutions within budget, and communicate with respect and compassion with creatives (writers, designers, illustrators). The editor's job is to coordinate between the business and the ideas - and I've done it successfully over 200 times, making me an ideal developer who can balance customer and business needs in the code I deliver.
+Prior to becoming a software engineer, I worked in children's book publishing. I work effectively with senior management to find solutions within budget, and communicate with respect and compassion with creatives (writers, designers, illustrators). The editor's job is to coordinate between the business and the ideas - and I've done it successfully over 200 times, making me an ideal developer who can balance customer and business needs in the code I deliver.
 
 People compare editing someone's book to writing on their skin, so I'm well-versed in diplomacy, negotiation, prioritising change and searching for what people are really trying to say. Editing also requires outrageous attention to detail and picking through lines and lines of text - just like code. I love to combine seemingly unrelated ideas into something new - two such creations have generated revenue of over £1 million.
 
@@ -76,8 +76,7 @@ I've also been responsible for input and output of large data systems, producing
 - *Bachelor of Fine Arts (BFA), Writing, Literature and Publishing* **Emerson College, Boston** (1997 - 2000)
 - *High School Diploma* **International School of Kuala Lumpur, Malaysia** (1993 - 1997)
 
-## Experience
-
+## Other Experience
 Spent 13 years selecting ideas for investment. Helped bring over 200 book products to market, including creating several series. Two of my ideas have passed £1 million revenue.
 
 - *Fiction Digital Director* **Hot Key Books** (Dec 2011 to Jan 2015)
