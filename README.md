@@ -27,16 +27,16 @@ Sole developer on web app to host bingo night fundraiser at a local school for a
 #### Made - freelance project using Javascript (Meteor.js) - (completed September 2015)
 Sole developer on real-time chat web app, with integrated video as a freelancer working with Bold Creative. Only Connect is a prison rehablitation charity and this protoype set out to prove that regular video content from mentors could encourage faster and more impactful rehabilitation, helping their clients get "Made". Live demo is hosted on Heroku, firing up is sometimes slow: https://onlyconnectmade.herokuapp.com/.
 
-#### Makers Academy Visitors app (completed June 2015)
+#### Makers Academy Visitors app - final project at Makers Academy - (completed June 2015)
 Lead developer on the Rails API and Slack integration for a team Swift project. Also designed the UI for the iOS app to help visitors arriving at Makers Academy for interviews, also using proximity beacons and Google forms.
 - Demo video: https://youtu.be/v1GVvMg1-Js
 - Code: https://github.com/MakersApp
 
-#### eCommerce iPhone app (completed July 2015)
+#### eCommerce iPhone app - tech test project - (completed July 2015)
 Sole developer on demonstration Swift app to show logic, layout and design, unit and UI tests
 - Code with demo gif: https://github.com/saramoohead/ecommerce_exercise
 
-#### Image Uploader API
+#### Image Uploader API - tech test project - (completed August 2015)
 Sole developer on image uploading exercise, TDD JSON-api specification API with Rails. Front end takes an image, directly uploads to AWS S3, and pushes response into the API, which returns a JSON feed. Captions can be added.
 - Live demo site: http://frontendforapiimages.herokuapp.com/
 - Front end code: https://github.com/saramoohead/image_upload_front_end
@@ -48,7 +48,7 @@ BDD Twitter clone using Ruby and Sinatra with Cucumber for testing
 
 #### Front end style
 - General portfolio site: http://socportfolio.herokuapp.com/application.html
-- Parralax scrolling TDD Rails app. Live site: https://makers-in-space.herokuapp.com/
+- Parallax scrolling TDD Rails app. Live site: https://makers-in-space.herokuapp.com/
 - Simple HTML and CSS website with Mailchimp integration. Live site: https://codetogetherprincesrisborough.herokuapp.com/
 
 ## Hackathons
