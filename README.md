@@ -3,15 +3,14 @@
 I am a full-time SQL engineer at a financial software company, with internship experience of Ruby on Rails, freelance experience of Javascript (MeteorJS) and just-for-fun experience of Swift. I'm looking to expand my strong database knowledge into a more full stack role.
 
 ## Current Employment (October 2015 - present)
-- Constultant at [Exceedra](http://www.exceedra.com/) using complex procedural TSQL to process and present financial data for brands like Ginsters, Weetabix and Dyson
+- Constultant at [Exceedra](http://www.exceedra.com/) using complex procedural TSQL to process and present millions of points of inbound and outbound data for brands like Ginsters, Weetabix and Dyson
 - Made tech lead on a new client project (Oct 2016)
-- Company expert on new structure transforming data via TSQL to XML for Telerik, instead of SSRS to provide more flexibility and speed to standard and custom reports
-- Debugging and optimising existing procedures
-- Building data validations for millions of points of inbound and outbound data
+- Company expert on new structure transforming data via TSQL to XML for Telerik, instead of SSRS, to provide more flexibility and speed to standard and custom reports
+- Debugging and optimising existing procedures, building data validations, extracting modules when possible
 - After seeing repetition and human error creep into my and other's custom data set ups, wrote dynamic SQL procedure to generate straight from the database to save hours of manual intervention and eliminate human error
 
 ## Internships (June - September 2015)
-- [Bibliocloud](http://bibliocloud.com/) Rails, gaining experience learning my way around a large exisiting code base
+- [Bibliocloud](http://bibliocloud.com/) Rails, gaining experience working through a large exisiting code base
 - 3D skiing map [Fatmap](http://fatmap.com/), building out ActiveAdmin for a greenfield app using RSpec, Cucumber, Cancancan, etc
 
 ## Stack
@@ -26,7 +25,7 @@ I am a full-time SQL engineer at a financial software company, with internship e
 Sole developer on web app to host bingo night fundraiser at a local school for all ages. To cater for pre-school children, the app called a number and a picture side by side. The second iteration allowed the boards to be the children's own images -- the site built the boards, optimised for print and then called those images with a description and artist credit. Now used three times, the web app has raised over £2000 for the school.
 
 #### Made - freelance project using Javascript (Meteor.js) - (completed September 2015)
-Sole developer on real-time chat web app, with integrated video as a freelancer working with Bold Creative. Only Connect is a prison rehablitation charity and this protoype set out to prove that regular video content from mentors could encourage faster and more impactful rehabilitation, helping their clients get "Made". Live demo is hosted on Heroku so firing up is sometimes slow: https://onlyconnectmade.herokuapp.com/.
+Sole developer on real-time chat web app, with integrated video as a freelancer working with Bold Creative. Only Connect is a prison rehablitation charity and this protoype set out to prove that regular video content from mentors could encourage faster and more impactful rehabilitation, helping their clients get "Made". Live demo is hosted on Heroku, firing up is sometimes slow: https://onlyconnectmade.herokuapp.com/.
 
 #### Makers Academy Visitors app (completed June 2015)
 Lead developer on the Rails API and Slack integration for a team Swift project. Also designed the UI for the iOS app to help visitors arriving at Makers Academy for interviews, also using proximity beacons and Google forms.
@@ -58,16 +57,9 @@ BDD Twitter clone using Ruby and Sinatra with Cucumber for testing
 - Won the data visualisation category at my first hackathon with My Book is Bigger Than Yours: http://www.thebookseller.com/news/futurebook-hack-chooses-its-winners
 
 ## Previous digital experience
+- Produced iBooks Author product featured by Apple and mentioned in the Guardian: https://itunes.apple.com/gb/book/maggot-moon-multi-touch-edition/id557942824?mt=11
 - Managed set up, input and output of large data systems of thousands of titles of bibliographic information (ONIX)
-- Entertained and inspired hundreds of children for hundreds of hours by creating online writing community: https://www.thestoryadventure.com
-- Got mentioned in the Guardian for Apple-banner-featured iBooks Author product: https://itunes.apple.com/gb/book/maggot-moon-multi-touch-edition/id557942824?mt=11
-
-## Other skills
-Prior to becoming a software engineer, I worked in children's book publishing. I work effectively with senior management to find solutions within budget, and communicate with respect and compassion with creatives (writers, designers, illustrators). The editor's job is to coordinate between the business and the ideas - and I've done it successfully over 200 times, making me an ideal developer who can balance customer and business needs in the code I deliver.
-
-People compare editing someone's book to writing on their skin, so I'm well-versed in diplomacy, negotiation, prioritising change and searching for what people are really trying to say. Editing also requires outrageous attention to detail and picking through lines and lines of text - just like code. I love to combine seemingly unrelated ideas into something new - two such creations have generated revenue of over £1 million.
-
-I've also been responsible for input and output of large data systems, producing endless standardised and customised reports, giving me an appreciation for the challenges of scaling code.
+- Entertained and inspired hundreds of children for hundreds of hours with online writing community: https://www.thestoryadventure.com
 
 ## Education
 - *Selected as Alumni helper* **Makers Academy** (June 2015)
@@ -77,7 +69,9 @@ I've also been responsible for input and output of large data systems, producing
 - *High School Diploma* **International School of Kuala Lumpur, Malaysia** (1993 - 1997)
 
 ## Other Experience
-Spent 13 years selecting ideas for investment. Helped bring over 200 book products to market, including creating several series. Two of my ideas have passed £1 million revenue.
+Prior to becoming a software engineer, I worked in children's book publishing for 13 years. My editorial experience gives my code and my communication precision and clarity. I work well with product owners and project managers, having been one myself, and enjoy being part of an ambitious team.
+
+I've helped bring over 200 products to market, with four of them passing £1 million revenue ([My Sister the Vampire](https://www.egmont.co.uk/books/category/fiction/series/my-sister-the-vampire/483); [Dinosaur Cove](http://www.dinosaurcove.co.uk/); [Quentin Blake and Friends 70th Anniversary Editions of the Famous Five](https://www.theguardian.com/books/gallery/2012/feb/24/enid-blyton-famous-five-70-in-pictures); [Undiscovered Voices](http://www.undiscoveredvoices.com/)).
 
 - *Fiction Digital Director* **Hot Key Books** (Dec 2011 to Jan 2015)
 - *Senior Editorial Manager* **Hodder Children's Books** (Nov 2010 to Dec 2011)
