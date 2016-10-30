@@ -36,12 +36,6 @@ Lead developer on the Rails API and Slack integration for a team Swift project. 
 Sole developer on demonstration Swift app to show logic, layout and design, unit and UI tests
 - Code with demo gif: https://github.com/saramoohead/ecommerce_exercise
 
-#### Image Uploader API - tech test project - (completed August 2015)
-Sole developer on image uploading exercise, TDD JSON-api specification API with Rails. Front end takes an image, directly uploads to AWS S3, and pushes response into the API, which returns a JSON feed. Captions can be added.
-- Live demo site: http://frontendforapiimages.herokuapp.com/
-- Front end code: https://github.com/saramoohead/image_upload_front_end
-- Back end code: https://github.com/saramoohead/jsonapi_resources_exercise
-
 #### Twitter clone
 BDD Twitter clone using Ruby and Sinatra with Cucumber for testing
 - Code with screenshot: https://github.com/saramoohead/chitter-chatter-complete
