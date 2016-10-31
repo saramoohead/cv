@@ -7,6 +7,7 @@ I am a full-time SQL engineer at a financial software company, with internship e
 - Made tech lead on a new client project (Oct 2016)
 - Company expert on new structure transforming data via TSQL to XML for Telerik, instead of SSRS, to provide more flexibility and speed to standard and custom reports
 - Debugging and optimising existing procedures, building data validations, extracting modules when possible
+- Proposing new features to R&D, such as a scalable x-axis and better report filter structures
 - After seeing repetition and human error creep into my and other's custom data set ups, wrote dynamic SQL procedure to generate straight from the database to save hours of manual intervention and eliminate human error
 
 ## Internships (June - September 2015)
@@ -22,10 +23,10 @@ I am a full-time SQL engineer at a financial software company, with internship e
 
 ## Highlight projects
 #### Family Bingo Club - side project using Javascript (Meteor.js) - (completed September 2016)
-Sole developer on web app to host bingo night fundraiser at a local school for all ages. To cater for pre-school children, the app called a number and a picture side by side. The second iteration allowed the boards to be the children's own images -- the site built the boards, optimised for print and then called those images with a description and artist credit. Now used three times, the web app has raised over £2000 for the school.
+Sole developer on web app to host bingo night fundraiser at a local school for all ages, using numbers alongside the children's own images so the whole family can play together. MeteorJS is a Node-based framework, using Javascript client and server-side and a "reactive" MongoDB database for speed and flexibility.
 
 #### Made - freelance project using Javascript (Meteor.js) - (completed September 2015)
-Sole developer on real-time chat web app, with integrated video as a freelancer working with Bold Creative. Only Connect is a prison rehablitation charity and this protoype set out to prove that regular video content from mentors could encourage faster and more impactful rehabilitation, helping their clients get "Made". Live demo is hosted on Heroku, firing up is sometimes slow: https://onlyconnectmade.herokuapp.com/.
+Sole developer on real-time chat web app, with integrated video, working with Bold Creative for Only Connect, a prison rehablitation charity. This protoype set out to prove that regular video content from mentors could encourage faster and more impactful rehabilitation, helping their clients get "Made". Live demo is hosted on Heroku, firing up is sometimes slow: https://onlyconnectmade.herokuapp.com/.
 
 #### Makers Academy Visitors app - final project at Makers Academy - (completed June 2015)
 Lead developer on the Rails API and Slack integration for a team Swift project. Also designed the UI for the iOS app to help visitors arriving at Makers Academy for interviews, also using proximity beacons and Google forms.
