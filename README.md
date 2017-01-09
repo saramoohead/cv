@@ -3,7 +3,7 @@
 I am a full-time SQL engineer at a financial software company, with internship experience of Ruby on Rails, freelance experience of Javascript (MeteorJS) and just-for-fun experience of Swift. I'm looking to expand my strong database knowledge into a more full stack role.
 
 ## Current Employment (October 2015 - present)
-- Constultant at [Exceedra](http://www.exceedra.com/) using complex procedural TSQL to process and present millions of points of inbound and outbound data for brands like Ginsters, Weetabix and Dyson
+- Consultant at [Exceedra](http://www.exceedra.com/) using complex procedural TSQL to process and present millions of points of inbound and outbound data for brands like Ginsters, Weetabix and Dyson
 - Made tech lead on a new client project (Oct 2016)
 - Company expert on new structure transforming data via TSQL to XML for Telerik, instead of SSRS, to provide more flexibility and speed to standard and custom reports
 - Debugging and optimising existing procedures, building data validations, extracting modules when possible
