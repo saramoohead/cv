@@ -1,6 +1,6 @@
 ## Sara O'Connor
 
-I am a full stack developer at a publishing enterprise software company. After switching careers in 2015 from publishing to software development, I'm determined to get the publishing industry to skill up and demand more from the software they use. I also love working with kids to code games and stories.
+After switching careers in 2015 from children's book publishing to software development, I write the software I wish I could have used as an editorial assistant. I consult, give talks and create events so that the publishing industry can skill up and demand more from the software they use. And I host local workshops teaching kids to code stories and games.
 
 ## Current Employment (April 2017 - present)
 - Full stack developer at [Consonance](https://www.consonance.app/) using Rails + React to build intuitive enterprise software for book publishers
@@ -69,6 +69,7 @@ I've helped bring over 200 products to market, with four of them passing £1 mil
 
 ## Speaking/coaching/teaching
 - Day of Code: teaching (pubishing to code)[https://2019.dayofcode.co.uk/] (Nov 2019)
+- *Speaker* **The Bookseller FutureBook conference, The Society of Young Publishers, Book Machine** (2019)
 - *Coach + speaker on Harry Potter and the Magic of Ruby* **RailsGirls** (Nov 2018, Nov 2019)
 - *Volunteer* Institute of the Imagination, teaching kids to code in VR with (Cospaces)[https://cospaces.io/edu/] (Jun 2018)
 - *Mentor/Tutor/Speaker* **Mums in Technology** (Sept 2015, June 2016)
