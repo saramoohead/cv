@@ -1,16 +1,17 @@
 ## Sara O'Connor
 
-After switching careers in 2015 from children's book publishing to software development, I write the software I wish I could have used as an editorial assistant. I consult, give talks and create events so that the publishing industry can skill up and demand more from the software they use. And I host local workshops teaching kids to code stories and games.
+As a career-switcher, I write software from a user-first pespective. After a successful career in children's book publishing, I became a developer in 2015 and now have experience with enterprise-level software in procedural SQL and Rails. I enjoy giving talks, creating events and doing demonstrations to teach publishing professionals, local children and their parents how to code.
 
 ## Current Employment (April 2017 - present)
 - Full stack developer at [Consonance](https://www.consonance.app/) using Rails + React to build intuitive enterprise software for book publishers
-- Building greenfields xlsx-to-app importers with validations for client data for self-serve onboarding
-- Re-skinning the presentation and editing interfaces of business-critical financial for intuitive use
+- Building xlsx-to-app importers with validations for bulk imports of client data to enable self-serve onboarding
+- Creating logic checks on client's financial data, presenting a traffic light system for where data needs improvement
+- Re-skinning the presentation and editing interfaces of business-critical financial information
 - Covering legacy code with tests and fixing bugs
 - Participating in strategy discussion and decisions
 
 ## Previous Employment (October 2015 - March 2017)
-- Consultant at [Exceedra](http://www.exceedra.com/) using complex procedural TSQL to process and present millions of points of inbound and outbound data for brands like Ginsters, Weetabix and Dyson
+- Consultant at [Exceedra](http://www.exceedra.com/) using procedural TSQL to process and present millions of points of inbound and outbound financial data for brands like Ginsters, Weetabix and Dyson
 - Tech lead on a new client project after only one year at the company (Oct 2016)
 - Initial work transforming data via TSQL to XML for Telerik, instead of SSRS, to provide more flexibility and speed to standard and custom reports
 
@@ -31,9 +32,6 @@ BookPenPals pairs UK authors and illustrators with UK schools to make book recom
 
 #### Family Bingo Club - side project using Javascript (Meteor.js) - (completed September 2016)
 Web app to host bingo night fundraiser at a local school for all ages, using numbers alongside the children's own images so the whole family can play together. MeteorJS is a Node-based framework, using Javascript client and server-side and a "reactive" MongoDB database for speed and flexibility.
-
-#### Made - freelance project using Javascript (Meteor.js) - (completed September 2015)
-Sole developer on real-time chat web app, with integrated video, working with Bold Creative for Only Connect, a prison rehablitation charity. This protoype set out to prove that regular video content from mentors could encourage faster and more impactful rehabilitation, helping their clients get "Made". Live demo is hosted on Heroku, firing up is sometimes slow: https://onlyconnectmade.herokuapp.com/.
 
 #### Makers Academy Visitors app - final project at Makers Academy - (completed June 2015)
 Lead developer on the Rails API and Slack integration for a team Swift project. Also designed the UI for the iOS app to help visitors arriving at Makers Academy for interviews, also using proximity beacons and Google forms.
@@ -65,7 +63,7 @@ I've helped bring over 200 products to market, with four of them passing £1 mil
 - *Fiction Digital Director* **Hot Key Books** (Dec 2011 to Jan 2015)
 - *Senior Editorial Manager* **Hodder Children's Books** (Nov 2010 to Dec 2011)
 - *Senior Commissioning Editor* **Working Partners Ltd** (Sept 2004 - Nov 2010)
-- *Co-founder* **Book Bound** (April 2013 - present)
+- *Co-founder* **Book Bound** (April 2013 - Feb 2017)
 
 ## Speaking/coaching/teaching
 - Day of Code: teaching (pubishing to code)[https://2019.dayofcode.co.uk/] (Nov 2019)
