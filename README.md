@@ -1,8 +1,12 @@
 ## Sara O'Connor
 
-As a career-switcher, I write software from a user-first perspective. After a successful career in children's book publishing, I became a developer in 2015 and now have experience with enterprise-level software in procedural SQL and Rails. I enjoy giving talks, creating events and doing demonstrations to teach publishing professionals, local children and their parents how to code.
+As a career-switcher, I write software from a user-first perspective. After a successful career in children's book publishing, I became a developer in 2015 and now have experience with enterprise-level software in procedural SQL, Rails and Javascript. I enjoy giving talks, creating events and doing demonstrations to teach publishing professionals, local children and their parents how to code.
 
-## Current Employment (April 2017 - present)
+## Current Employment (Dec 2021 - present)
+- Software engineer at [FreeAgent](https://www.freeagent.com/) using Javascript, Ruby, Salesforce and Netlify to build the marketing and learning website
+
+## Previous Employment
+### Consonance (April 2017 - Dec 2021)
 - Full stack developer at [Consonance](https://www.consonance.app/) using Rails + React to build intuitive enterprise software for book publishers
 - Building xlsx-to-app importers with validations for bulk imports of client data to enable self-serve onboarding
 - Creating logic checks on client's financial data, presenting a traffic light system for where data needs improvement
@@ -10,7 +14,7 @@ As a career-switcher, I write software from a user-first perspective. After a su
 - Covering legacy code with tests and fixing bugs
 - Participating in strategy discussion and decisions
 
-## Previous Employment (October 2015 - March 2017)
+### Exceedra (October 2015 - March 2017)
 - Consultant at [Exceedra](http://www.exceedra.com/) using procedural TSQL to process and present millions of points of inbound and outbound financial data for brands like Ginsters, Weetabix and Dyson
 - Tech lead on a new client project after only one year at the company (Oct 2016)
 - Initial work transforming data via TSQL to XML for Telerik, instead of SSRS, to provide more flexibility and speed to standard and custom reports
@@ -20,7 +24,7 @@ As a career-switcher, I write software from a user-first perspective. After a su
 - 3D skiing map [Fatmap](http://fatmap.com/), building out ActiveAdmin for a greenfield app using RSpec, Cucumber, Cancancan, etc
 
 ## Stack
-- Professional experience with: Ruby, Rails, RSpec, Cucumber, Procedural TSQL, Javascript (MeteorJS), XML, SSRS, HTML5, CSS, Agile, Jira, React, Jest
+- Professional experience with: Ruby, Rails, RSpec, Cucumber, Procedural TSQL, Javascript, Jest, XML, SSRS, HTML5, CSS, Agile, Jira, React
 - Learning experience with: Swift, XCode, Angular, Karma, Protractor, Jasmine
 - Other technical skills: Photoshop, Final Cut Pro, EPUB3, ONIX
 - Other core skills: communication, diplomacy, project delivery, editing, marketing strategy, community management
