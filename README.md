@@ -3,7 +3,7 @@
 As a career-switcher, I write software from a user-first perspective. After a successful career in children's book publishing, I became a developer in 2015 and now have experience with enterprise-level software in procedural SQL, Rails and Javascript. I enjoy giving talks, creating events and doing demonstrations to teach publishing professionals, local children and their parents how to code.
 
 ## Current Employment (Dec 2021 - present)
-- Software engineer at [FreeAgent](https://www.freeagent.com/) using Javascript, Ruby, Salesforce and Netlify to build the marketing and learning website
+- Senior software engineer at [FreeAgent](https://www.freeagent.com/) using Javascript, Ruby, Salesforce and Netlify to build the marketing and learning website
 
 ## Previous Employment
 ### Consonance (April 2017 - Dec 2021)
